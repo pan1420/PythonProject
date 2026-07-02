@@ -41,7 +41,7 @@ To run this script, you only need to have **Python 3.x** installed on your syste
    Open your terminal or command prompt, navigate to the folder containing the file, and execute:
    ```bash
    python MainHrApp.py
-#example usage
+## Example Usage
 
 Please enter your name: Lian
 Please enter your base salary: 6000
