@@ -51,6 +51,7 @@ Please enter your performance rating (1-5): 5
 
 Please enter your department: AI 
 
+**Output**  
 
 Hello Lian,  
 
