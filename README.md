@@ -35,9 +35,21 @@ To run this script, you only need to have **Python 3.x** installed on your syste
 ## Getting Started
 
 1. **Clone or Download the Script:**
-   Save the Python code into a file named `hr_app.py`.
+   Save the Python code into a file named `MainHrApp.py`.
 
 2. **Run the Application:**
    Open your terminal or command prompt, navigate to the folder containing the file, and execute:
    ```bash
-   python hr_app.py
+   python MainHrApp.py
+#example usage
+
+Please enter your name: Lian
+Please enter your base salary: 6000
+Please enter your performance rating (1-5): 5
+Please enter your department: Engineering
+
+Hello Lian, 
+your base salary is: $6000.0, 
+your bonus is: $1200.0 
+And your tax amount is: $1080.0, 
+Your net salary after tax is: $6120.0.
